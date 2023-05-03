@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "797336569754",
+    "project_id": "androidnativedemo-3412e",
+    "storage_bucket": "androidnativedemo-3412e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797336569754:android:a24eecbeb7c1aa74f11c23",
+        "android_client_info": {
+          "package_name": "com.clevertap.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797336569754-toorvsl901u11i96i4fngo9bubvlplbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjk6KlJnuIE2RJPogL9isnom7B2q6FaFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797336569754-toorvsl901u11i96i4fngo9bubvlplbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797336569754:android:12632bd24b873c31f11c23",
+        "android_client_info": {
+          "package_name": "com.example.ct_androidnativedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797336569754-toorvsl901u11i96i4fngo9bubvlplbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjk6KlJnuIE2RJPogL9isnom7B2q6FaFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797336569754-toorvsl901u11i96i4fngo9bubvlplbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
